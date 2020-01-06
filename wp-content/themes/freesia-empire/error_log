@@ -1,0 +1,8 @@
+[06-Jan-2020 15:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kivimagikarelikt/public_html/wordpress/wp-content/themes/freesia-empire/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kivimagikarelikt/public_html/wordpress/wp-content/themes/freesia-empire/index.php on line 12
+[06-Jan-2020 15:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kivimagikarelikt/public_html/wordpress/wp-content/themes/freesia-empire/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kivimagikarelikt/public_html/wordpress/wp-content/themes/freesia-empire/index.php on line 12
